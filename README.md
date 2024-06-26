@@ -1,6 +1,12 @@
 ## Median - A simples blog REST API
 
 A simple backend REST API for a blog built using NestJS, Prisma, PostgreSQL and Swagger.
+The project was developed following the instructions in the article 'Building a REST API with NestJS and Prisma' available at:
+
+- https://www.prisma.io/blog/nestjs-prisma-rest-api-7D056s1BmOL0
+- https://www.prisma.io/blog/nestjs-prisma-validation-7D056s1kOla1
+- https://www.prisma.io/blog/nestjs-prisma-error-handling-7D056s1kOop2
+- https://www.prisma.io/blog/nestjs-prisma-authentication-7D056s1s0k3l
 
 ### Installation
 
